@@ -1,0 +1,6 @@
+{
+  "name": "WORLD BRAIN AI",
+  "description": "Universal Knowledge, Research & Education System. Explore everything, understand anything, learn without limits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
